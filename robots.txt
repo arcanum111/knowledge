@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arcanum111.github.io/knowledge/sitemap.xml
